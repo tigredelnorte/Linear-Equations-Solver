@@ -1022,6 +1022,9 @@ files:
 - name: src/solver/data/Row.java
   visible: true
   learner_created: true
+- name: src/solver/int.txt
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/40/stages/213/implement
 status: Solved
 record: 4
